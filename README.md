@@ -1,4 +1,6 @@
-# 情報工学科の紹介![](https://file%2B.vscode-resource.vscode-cdn.net/Users/isobeyo/Desktop/Literacy/clb2-2-G28414-1/logo.png?version%3D1652081469656)
+# 情報工学科の紹介
+
+![](logo.png)
 <!-- Markdown記法を使って学-->
 - [拓殖大学](https://www.takushoku-u.ac.jp/)*情報工学科*は工学部に所属しています。
 情報工学科ではコンピュータの基礎から、高度なプログラミングまで。
